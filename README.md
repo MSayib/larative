@@ -6,6 +6,7 @@ First look Laravel App with NativePHP
 - NativePHP Alpha 0.1.1
 
 ```
+$ cp .env.example .env
 $ composer install
 $ php artisan native:serve
 ```
